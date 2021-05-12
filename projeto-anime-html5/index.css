@@ -1,0 +1,14 @@
+p {
+  text-align: justify;
+  text-indent: 50px;
+}
+
+.page-content,
+h2 {
+  text-align: left;
+}
+
+.page-content,
+span {
+  font-weight: 900;
+}
