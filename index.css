@@ -1,0 +1,21 @@
+/*Global*/
+p {
+  text-align: justify;
+  text-indent: 50px;
+}
+
+body {
+  background-color: #2a232e;
+  color: rgb(255, 255, 255, 1);
+}
+
+/*Body*/
+.page-content,
+h2 {
+  text-align: left;
+}
+
+.page-content,
+span {
+  font-weight: 900;
+}
