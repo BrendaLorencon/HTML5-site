@@ -4,6 +4,17 @@ p {
   text-indent: 50px;
 }
 
+header#header-index img#icon {
+  position: absolute;
+  left: 1250px;
+  top: 80px;
+}
+
+header#header-index{
+  border-bottom: 1px #606060 solid;
+  height: 150px;
+}
+
 body {
   background-color: #dccde6;
   color: rgb(0, 0, 0);
@@ -14,7 +25,9 @@ div#interface {
   background-color: white;
   margin: -20px auto 0px auto;
   box-shadow: 0px 0px 10px rgb(0, 0, 0,.5);
+  padding: 100px;;
 }
+
 
 /*Body*/
 .page-content,
@@ -58,7 +71,7 @@ figure.photo-caption:hover figcaption {
 /*Formatação do menu*/
 
 nav#menu {
-  display: block;
+  display:block;
 }
 
 nav#menu ul{/*Prefir*/
@@ -78,7 +91,7 @@ nav#menu li{
 }
 
 nav#menu li:hover {
-  background-color: #ffffff;
+  background-color: #474747;
 }
 
 nav#menu h1{
@@ -92,5 +105,5 @@ nav#menu a {
 }
 
 nav#menu a:hover{
-  color: #8b76a8;
+  color: #ffffff;
 }
